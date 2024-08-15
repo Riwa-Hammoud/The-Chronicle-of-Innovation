@@ -2,7 +2,7 @@ body {
     background-image: url('../images/Old-paper-background.jpg');
     background-repeat: no-repeat ;
     background-size: cover;
-    font-family: Georgia, 'Times New Roman', Times, serif; /* Classic serif font for body text */
+    font-family: 'Courier New', Courier, monospace;
     color: #333;
     line-height: 1.6;
     margin: 0;
@@ -14,40 +14,73 @@ body {
     src: url('../turkeyes-bohemian-type-free-download/Turkeyes - Bohemian Type/Turkeyes.ttf');
 }
 
-h1{
-    font-family: 'Turkeyes';
-    color: rgb(139, 46, 10);
-    font-size: 3rem;
-    margin: 20px 0;
-    text-align: center;
-    position: relative;
+:root {
+    --dark: #483016; /* Dark color for the title */
+    --gray-color: #B0B0B0;   /* Gray color for backgrounds or text */
+    --background-color: #F5F5DC; /* Aged parchment background */
 }
 
-h1::before,
-h1::after {
+.newspaper_title .side {
+    display: flex;
+    align-items: center;  
+    justify-content: space-between; 
+}
+
+.newspaper_title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.newspaper_title h1{
+    font-family: 'Turkeyes';
+    color: var(--dark);
+    font-size: 3rem;
+    margin: 0;
+}
+
+.newspaper_title h2{
+    font-size: 1.25rem;
+    color: var(--dark);
+}
+
+.newspaper_subtitle::before,
+.newspaper_subtitle::after {
     content: '';
     display: block;
-    width: 90%;
-    height: 2px;
-    background-color: rgb(139, 46, 10);
+    width: 100%;
+    height: 1.5px;
+    background-color: var(--dark);
     margin: 10px auto;
     position: relative;
+    box-shadow: 0;
 }
 
-h1::before {
+.newspaper_subtitle::before {
     margin-bottom: 8px; /* Space between top double lines and title */
 }
 
-h1::after {
+.newspaper_subtitle::after {
     margin-top: 8px; /* Space between bottom double lines and title */
 }
 
 /* Second line above the title */
-h1::before {
-    box-shadow: 0 5px 0 rgb(139, 46, 10);
+.newspaper_subtitle::before {
+    box-shadow: 0 4px 0 var(--dark);
 }
 
 /* Second line below the title */
-h1::after {
-    box-shadow: 0 -5px 0 rgb(139, 46, 10);
+.newspaper_subtitle::after {
+    box-shadow: 0 -4px 0 var(--dark);
+}
+
+.date_nb {
+    font-size: 1rem;
+    color: var(--dark);
+}
+
+.date_nb p {
+    font-size: 1.1rem;
+    font-weight: 550;
+    margin: 0;
+    width: 150px;
 }
