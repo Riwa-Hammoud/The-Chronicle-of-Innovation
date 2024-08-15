@@ -34,12 +34,12 @@ body {
 .newspaper_title h1{
     font-family: 'OldMan';
     color: var(--dark);
-    font-size: 3.4rem;
+    font-size: 3rem;
     margin: 0;
 }
 
 .newspaper_title h2{
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     color: var(--dark);
 }
 
