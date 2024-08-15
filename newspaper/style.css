@@ -1,0 +1,53 @@
+body {
+    background-image: url('../images/Old-paper-background.jpg');
+    background-repeat: no-repeat ;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif; /* Classic serif font for body text */
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+@font-face {
+    font-family: 'Turkeyes';
+    src: url('../turkeyes-bohemian-type-free-download/Turkeyes - Bohemian Type/Turkeyes.ttf');
+}
+
+h1{
+    font-family: 'Turkeyes';
+    color: rgb(139, 46, 10);
+    font-size: 3rem;
+    margin: 20px 0;
+    text-align: center;
+    position: relative;
+}
+
+h1::before,
+h1::after {
+    content: '';
+    display: block;
+    width: 90%;
+    height: 2px;
+    background-color: rgb(139, 46, 10);
+    margin: 10px auto;
+    position: relative;
+}
+
+h1::before {
+    margin-bottom: 8px; /* Space between top double lines and title */
+}
+
+h1::after {
+    margin-top: 8px; /* Space between bottom double lines and title */
+}
+
+/* Second line above the title */
+h1::before {
+    box-shadow: 0 5px 0 rgb(139, 46, 10);
+}
+
+/* Second line below the title */
+h1::after {
+    box-shadow: 0 -5px 0 rgb(139, 46, 10);
+}
