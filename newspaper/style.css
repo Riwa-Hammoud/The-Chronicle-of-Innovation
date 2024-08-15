@@ -10,8 +10,8 @@ body {
 }
 
 @font-face {
-    font-family: 'Turkeyes';
-    src: url('../turkeyes-bohemian-type-free-download/Turkeyes - Bohemian Type/Turkeyes.ttf');
+    font-family: 'OldMan';
+    src: url('../font/OldMan.ttf');
 }
 
 :root {
@@ -32,14 +32,14 @@ body {
 }
 
 .newspaper_title h1{
-    font-family: 'Turkeyes';
+    font-family: 'OldMan';
     color: var(--dark);
-    font-size: 3rem;
+    font-size: 3.4rem;
     margin: 0;
 }
 
 .newspaper_title h2{
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     color: var(--dark);
 }
 
@@ -83,4 +83,55 @@ body {
     font-weight: 550;
     margin: 0;
     width: 150px;
+}
+
+
+img {
+    filter: sepia(70%);
+}
+
+.pc_img {
+    width: 300px;
+}
+
+#headlines {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns of equal width */
+    gap: 25px; /* Space between grid items */
+    padding: 10px;
+}
+
+.columns h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 1.4rem;
+    margin: 0;
+    color: var(--dark);
+} 
+
+.columns .row1 .biggest_title, .columns .row2 .biggest_title  {
+    font-size:  1.8rem;
+}
+
+.columns .row2 .biggest_title1 {
+    font-size: 2.2rem;
+}
+
+.column3 .row1{
+    display: grid;
+    margin: 0;
+    justify-content: flex-end;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.column3 .figures2 img {
+    margin-bottom: 20px;
+}
+
+figure {
+    margin: 10px;
+}
+
+p {
+    margin-bottom: 30px;
 }
