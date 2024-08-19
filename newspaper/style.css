@@ -26,12 +26,12 @@ body {
     justify-content: space-between; 
 }
 
-.newspaper_title {
+.newspaper_title, .centered {
     text-align: center;
     margin-bottom: 20px;
 }
 
-.newspaper_title h1{
+.newspaper_title h1, .centered{
     font-family: 'OldMan';
     color: var(--dark);
     font-size: 3rem;
@@ -91,14 +91,17 @@ img {
 }
 
 .pc_img {
-    width: 300px;
+    width: 200px;
 }
 
-#headlines {
+#headlines, #in_depth_feature, .spotlight_on_innovation {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* 3 columns of equal width */
-    gap: 25px; /* Space between grid items */
-    padding: 10px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+}
+
+.big_title2 {
+    font-size: 1.6rem !important;
 }
 
 .columns h1{
@@ -109,15 +112,22 @@ img {
     color: var(--dark);
 } 
 
+hr {
+    border: none;
+    height: 0.5px;
+    background-color: var(--dark);
+    margin: 30px 0;
+}
+
 .columns .row1 .biggest_title, .columns .row2 .biggest_title  {
-    font-size:  1.8rem;
+    font-size:  1.7rem;
 }
 
 .columns .row2 .biggest_title1 {
     font-size: 2.2rem;
 }
 
-.column3 .row1{
+.column3 .row1grid{
     display: grid;
     margin: 0;
     justify-content: flex-end;
@@ -134,4 +144,26 @@ figure {
 
 p {
     margin-bottom: 30px;
+}
+
+.pc {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.women_img {
+    width: 500px;
+}
+
+
+.ai_img {
+    width: 390px;
+}
+
+legend {
+    font-size: 0.9rem;
+}
+
+.centered {
+    font-size: 2.5rem;
 }
