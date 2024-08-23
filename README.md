@@ -1,4 +1,3 @@
-<h1 align="center" id="title">The chronicle of Innovation</h1>
 <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/image.png">
 <p>The Chronicle of Innovation is a creative project that presents a 1984-themed newspaper, focusing on the intersection of technology, AI, and the contributions of women in the tech industry. This project not only explores these themes but also reflects my personal interests and passions. In addition to articles on technology and innovation, the newspaper features sections on basketball and swimming—two sports that I deeply enjoy. Through this project, I offer a glimpse into who I am and what I love, blending my appreciation for history, innovation, sports, and the powerful role women play in shaping our technological future.</p>
 <h2>Purpose</h2>
