@@ -22,10 +22,11 @@
 <h2>User Guide / Demo</h2>
 <h3>Screenshots</h3>
 <p>Here are some screenshots of The Chronicle of Innovation:</p>
-<p>Headlines: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Headlines.png">
-In-Depth Features: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/innovation.png">
+<p>Headlines: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Headlines.png"><br>
+In-Depth Features: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/innovation.png"><br>
 Spotlight on Innovation: </p>
-![Recording](https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/main/images/Recording_innovation-ezgif.com-video-to-gif-converter.gif)
+
+![Recording](https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Recording_innovation-ezgif.com-video-to-gif-converter.gif)
 
 <h2>Contribute</h2>
 <p>I welcome contributions to The Chronicle of Innovation. To get started: <br>
