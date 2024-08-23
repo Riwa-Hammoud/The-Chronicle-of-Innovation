@@ -17,7 +17,6 @@
 <p>Simply open the "index.html" file, located in the "newspaper" folder, in your preferred web browser.</p>
 
 <h2>User Guide / Demo</h2>
-<h3>Screenshots</h3>
 <p>Here are some screenshots of The Chronicle of Innovation:</p>
 <p>Headlines: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Headlines.png"><br>
 In-Depth Features: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/innovation.png"><br>
