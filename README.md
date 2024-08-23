@@ -3,8 +3,6 @@
 <p id="description">The Chronicle of Innovation is a creative project that presents a 1984-themed newspaper, focusing on the intersection of technology, AI, and the contributions of women in the tech industry. This project not only explores these themes but also reflects my personal interests and passions. In addition to articles on technology and innovation, the newspaper features sections on basketball and swimming—two sports that I deeply enjoy. Through this project, I offer a glimpse into who I am and what I love, blending my appreciation for history, innovation, sports, and the powerful role women play in shaping our technological future.</p>
 <h2>Purpose</h2>
 <p>The purpose of this project is to provide a retrospective view of how past technological advancements have influenced the present and to celebrate the often-overlooked contributions of women in technology. It also serves as a personal expression of my interests and values.</p>
-
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/riwa-hammoud)
   
 
 <h2>Installation Instructions</h2>
@@ -26,7 +24,7 @@
 In-Depth Features: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/innovation.png"><br>
 Spotlight on Innovation: </p>
 
-![Recording](https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Recording_innovation-ezgif.com-video-to-gif-converter.gif)
+![Recording](https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Recording_innovation%20(1).gif)
 
 <h2>Contribute</h2>
 <p>I welcome contributions to The Chronicle of Innovation. To get started: <br>
@@ -37,6 +35,12 @@ Spotlight on Innovation: </p>
 4- Push to the branch (git push origin feature-branch) <br>
 5- Open a Pull Request
 </p>
+
+<h2>Contact Information</h2>
+<p>Feel free to reach out to me: </p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/riwa-hammoud)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:riwahammoud1@gmail.com)
 
 <h2>Permission Information</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE.md</a> file for details.</p>
