@@ -3,11 +3,10 @@
 <p id="description">The Chronicle of Innovation is a creative project that presents a 1984-themed newspaper, focusing on the intersection of technology, AI, and the contributions of women in the tech industry. This project not only explores these themes but also reflects my personal interests and passions. In addition to articles on technology and innovation, the newspaper features sections on basketball and swimming—two sports that I deeply enjoy. Through this project, I offer a glimpse into who I am and what I love, blending my appreciation for history, innovation, sports, and the powerful role women play in shaping our technological future.</p>
 <h2>Purpose</h2>
 <p>The purpose of this project is to provide a retrospective view of how past technological advancements have influenced the present and to celebrate the often-overlooked contributions of women in technology. It also serves as a personal expression of my interests and values.</p>
-<p>
-  <img src="https://img.shields.io/badge/LinkedIn-Riwa%20Hammoud-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge" />
-  <img src="https://img.shields.io/badge/Email-riwahammoud1@gmail.com-red?logo=gmail&style=flat-square" alt="Email Badge" />
-  <img src="https://img.shields.io/badge/Phone-+961%2071%20622%20837-green?style=flat-square" alt="Phone Badge" />
-</p>
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/riwa-hammoud)
+  
+
 <h2>Installation Instructions</h2>
 <p>To view The Chronicle of Innovation on your local machine, follow these steps: </p>
 
