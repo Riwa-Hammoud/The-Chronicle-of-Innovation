@@ -24,8 +24,8 @@
 <h3>Screenshots</h3>
 <p>Here are some screenshots of The Chronicle of Innovation:</p>
 <p>Headlines: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Headlines.png">
-Spotlight on Innovation: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/innovation.png">
-Swimming Section: 
+In-Depth Features: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/innovation.png">
+Spotlight on Innovation: 
 </p>
 
 <h2>Contribute</h2>
