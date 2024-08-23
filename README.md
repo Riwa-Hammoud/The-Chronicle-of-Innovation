@@ -24,4 +24,4 @@ Simply open the "index.html" file, located in the "newspaper" folder, in your pr
 </p>
 
 <h2>Permission Information</h2>
-<p>This project is licensed under the MIT License - see the <a href="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/LICENSE.md">LICENSE.md</a> file for details.</p>
+<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE.md</a> file for details.</p>
