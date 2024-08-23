@@ -24,8 +24,8 @@
 <p>Here are some screenshots of The Chronicle of Innovation:</p>
 <p>Headlines: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Headlines.png">
 In-Depth Features: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/innovation.png">
-Spotlight on Innovation: 
-</p>
+Spotlight on Innovation: </p>
+[![Watch the video]](https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Recording_innovation.mp4)
 
 <h2>Contribute</h2>
 <p>I welcome contributions to The Chronicle of Innovation. To get started: <br>
