@@ -23,8 +23,8 @@
 <h2>User Guide / Demo</h2>
 <h3>Screenshots</h3>
 <p>Here are some screenshots of The Chronicle of Innovation:</p>
-<p>Headlines:
-Basketball Section: <br>
+<p>Headlines: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/Headlines.png">
+Spotlight on Innovation: <img src="https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation/blob/main/images/innovation.png">
 Swimming Section: 
 </p>
 
