@@ -8,10 +8,16 @@
 <p>To view The Chronicle of Innovation on your local machine, follow these steps: </p>
 
 <h3>1- Clone the repository:</h3>
-<p>git clone https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation.git </p>
+
+```bash
+git clone https://github.com/Riwa-Hammoud/The-Chronicle-of-Innovation.git
+```
 
 <h3>2- Navigate to the project directory:</h3>
-<p>cd the-chronicle-of-innovation</p>
+
+```bash
+cd the-chronicle-of-innovation
+```
 
 <h3>3- Open the project:</h3>
 <p>Simply open the "index.html" file, located in the "newspaper" folder, in your preferred web browser.</p>
@@ -38,7 +44,7 @@ Spotlight on Innovation: </p>
 <p>Feel free to reach out to me: </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/riwa-hammoud)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:riwahammoud1@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:riwa.a.hammoud@gmail.com)
 
 <h2>Permission Information</h2>
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE.md</a> file for details.</p>
