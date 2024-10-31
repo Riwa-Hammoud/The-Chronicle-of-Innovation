@@ -1,5 +1,5 @@
 body {
-    background-image: url('../images/Old-paper-background.jpg');
+    background-image: url('images/Old-paper-background.jpg');
     background-repeat: no-repeat ;
     background-size: cover;
     font-family: 'Courier New', Courier, monospace;
@@ -11,7 +11,7 @@ body {
 
 @font-face {
     font-family: 'OldMan';
-    src: url('../font/OldMan.ttf');
+    src: url('font/OldMan.ttf');
 }
 
 :root {
@@ -177,7 +177,6 @@ figcaption {
 }
 
 .footer {
-    font-size: 1.2rem;
     font-weight: bold;
 }
 
